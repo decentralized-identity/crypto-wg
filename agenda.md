@@ -1,5 +1,8 @@
 # DIF Crypto WG – Rolling Agenda & Minutes
 
+[![hackmd-github-sync-badge](https://hackmd.io/FdDDhUXkQdq2Iglrsfq-7g/badge)](https://hackmd.io/FdDDhUXkQdq2Iglrsfq-7g)
+
+
 
 [**WG projects** ] | [ DIF page ] | [Mailing list ](https://lists.identity.foundation/g/crypto-wg)
 
