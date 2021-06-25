@@ -1,10 +1,10 @@
-# DIF Crypto WG – Rolling Agenda & Minutes
+# DIF Applied Crypto WG – Rolling Agenda & Minutes
 
 [![hackmd-github-sync-badge](https://hackmd.io/FdDDhUXkQdq2Iglrsfq-7g/badge)](https://hackmd.io/FdDDhUXkQdq2Iglrsfq-7g)
 
 
 
-[**WG projects** ] | [ DIF page ] | [Mailing list ](https://lists.identity.foundation/g/crypto-wg)
+[**WG projects**](https://github.com/topics/wg-crypto) | [DIF page](https://identity.foundation/working-groups/crypto.html) | [Mailing list](https://lists.identity.foundation/g/crypto-wg)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -12,12 +12,11 @@ _This document is live-edited DURING each call, or shortly after the call, and s
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
 
 <details>
-<summary> Meeting information - <b>time in ET</b></summary>
-
+<summary> Meeting information - <b>3pm ET odd Thursdays</b></summary>
 - Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
-- Time: Every date, time in ET
-- [Calendar entry]()
-- [Zoom room](), Meeting ID: , Password: 
+- Time: 3pm ET, time in ET
+- [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2c5ZnRnZWFnbWxqdm9tOG5ncXNzMm1wYnJfMjAyMTA2MjRUMTkwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
+- [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
 
