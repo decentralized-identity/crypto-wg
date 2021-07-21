@@ -11,3 +11,10 @@ To join the mailing list see [here](https://lists.identity.foundation/g/crypto-w
 All prior meeting minutes and recordings are archived in the [meetings](./meetings) folder by date of meeting.
 
 The most current or up and coming meeting agenda along with a link to all previous calls is available [here](./agenda.md)
+
+## Work Items
+
+All current work items can be found [here](./work_items)
+
+To create a new work item please refer to [here](./NEW_WORK_ITEM_PROCESS.md)
+
