@@ -21,6 +21,31 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 ## Meeting - Thursday 8th July 2021 - (3pm ET)
 
+### Chair 
+Brent
+
+### Agenda
+
+1. Participant IPR status check
+1. Meeting Process
+   1. Queuing 
+   1. Scribing/Note-taking: auto vs manual
+   1. Storing notes, transcriptions, and recordings on github
+1. Resource curation - how to get started
+1. Work Items Process
+   1. proposal template
+   1. can establish their own meetings and cadence
+1. Establishing a relationship with IETF, etc.
+   1. cryptographic provenance logs, etc.
+1. Outreach to orgs/companies that are trying to do cryptographic software supply chain security.
+
+### Attendees
+
+### Notes
+
+
+## Meeting - Thursday 8th July 2021 - (3pm ET)
+
 ### Agenda
 
 1. Intro w/ IPR
