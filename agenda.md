@@ -19,7 +19,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 8th July 2021 - (3pm ET)
+## Meeting - Thursday 22th July 2021 - (3pm ET)
 
 ### Chair 
 Brent
