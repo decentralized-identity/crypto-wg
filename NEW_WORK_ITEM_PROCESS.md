@@ -36,9 +36,9 @@ and the ongoing expectations of work item owners.
 As a work item owner, you will have the following responsibilities:
 - Timely response to questions and status check-ins about the work item by the
   chairs and other DIF members.
-- Commitment to designating and sending a work item representative for all C&C
-  WG twice-monthly meetings who can speak on the status of the work item and
-  summary of events.
+- Commitment to designating and sending a work item representative for all
+  Applied Crypto WG bi-weekly meetings who can speak on the status of the work
+  item and summary of events
 - Commitment to timelines and scope of deliverables and/or meetings, and being
   proactive in communications to the chairs and the group upon any changes to
   these. Changes to the work item are made and approved in the same Pull
