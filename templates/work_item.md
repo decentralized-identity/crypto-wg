@@ -7,9 +7,15 @@ participants.
 - Full Name (@github, email@example.com, or both)
 - ...
 
+## External Partners (OPTIONAL)
+**This is only for work items intended to create a standards proposal. This may
+be filled in later and is not required for initial approval of the work item.**:
+- Full Name (@github, external organization)
+- External Org (org URL, mailing list, chat, @github)
+
 ## Outcome
-**When your work item is successful, then what will have changed in the world? What
-will we be able to do that wasn't possible do before or vice versa?**
+**When your work item is successful, then what will have changed in the world?
+What will we be able to do that wasn't possible do before or vice versa?**
 
 ## Deliverables
 - **Does your work item have any deliverables? These include code projects,
