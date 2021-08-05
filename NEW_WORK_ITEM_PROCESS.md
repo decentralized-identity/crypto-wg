@@ -1,7 +1,7 @@
 # New work Item Process
 
-The content below outlines the process under which a new working group item is established
-and the ongoing expectations of work item owners.
+The content below outlines the process under which a new working group item is
+established and the ongoing expectations of work item owners.
 
 ## Creating a new work item
 
@@ -21,9 +21,9 @@ and the ongoing expectations of work item owners.
    repository.
 6. Create a Pull Request against the parent repository including your local
    changes. The proposed work item will then be discussed at the next available
-   WG meeting where adopting the work item will be voted upon. Your item co-owners
-   **must** express in the Pull Request via GitHub comment that they accept the
-   responsbilities of work item ownership.
+   WG meeting where adopting the work item will be voted upon. Your item
+   co-owners **must** express in the Pull Request via GitHub comment that they
+   accept the responsbilities of work item ownership.
 7. Upon approval via merging, begin an email thread with the chairs or discuss
    asynchronously if you require any administrative resources from DIF, such as
    a regularly scheduled Zoom meeting link, inclusion on the
@@ -44,3 +44,7 @@ As a work item owner, you will have the following responsibilities:
   these. Changes to the work item are made and approved in the same Pull
   Request process described above, except the PR should contain changes to the
   work item markdown file instead of adding a new one.
+- If the work item is intended to become a standards proposal at an external
+  standards organization, identify the key people in the external organization,
+  establish and maintain a relationship with them and be proactive liaison
+  between this working group and the external standards body.
