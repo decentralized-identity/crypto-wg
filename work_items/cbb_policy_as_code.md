@@ -16,7 +16,7 @@ decentralization and scalability.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
-- Hopefully somebody else :)
+- Wayne Chang (@wyc, Spruce Systems, Inc)
 
 ## External Partners
 - IETF, new WG for crypto-systems building blocks?
