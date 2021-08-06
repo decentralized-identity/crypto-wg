@@ -10,7 +10,7 @@ decentralized crypto-systems as it represents a O(1) solution for revocation.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
-- Hopefully somebody else :)
+- Andreas Freitag (@coffeethecup, Independent Contributor)
 
 ## External Partners
 - IETF, new WG for crypto-systems building blocks?
