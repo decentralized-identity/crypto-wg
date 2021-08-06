@@ -1,5 +1,9 @@
 ## Meeting - Thursday 5th August 2021 - (3pm ET)
 
+[Call Recording](https://us02web.zoom.us/rec/share/JlkZCMI3x1kjqjf6RlWZbVIOq-3ry3GFn4ocvaBfsRQZL5ay8zjSMIu3Wkk2F_2f.4THFLdKhXJ9lWcKT)
+[Text Transcript](./transcript.txt)
+[Audio Recording](./transcript.mp3)
+
 ### Chair
 
 Tobias Looker
