@@ -6,10 +6,10 @@ category of "crypto-systems building blocks".
 This work item is to propose an IETF standard to formalize the method and
 application of delegatable anonymous credentials for use in decentralized
 crypto-systems. It also establishes an abstract data model that explicitly
-avoids a linked data and all of the negative privacy implications of using
-labeled graph nodes. This is critical for building fully decentralized
-crypto-systems that maximize privacy and have authorization functions that rely
-on credential delegation and revocation.
+avoids negative privacy implications of using stable identifiers for inter-
+object and intra-object references. This is critical for building fully
+decentralized crypto-systems that maximize privacy and have authorization
+functions that rely on credential delegation and revocation.
 
 This is similar in nature to the IETF JOSE and COSE standards work that
 formalized the data model and method for encoding cryptographically signed JSON
@@ -38,7 +38,7 @@ and CBOR encoded data objects respectively.
 
 ### Relevant Related Standards
 - [Delegatable Anonymous Credentials from Mercurial Signatures][0]
-- [Authorization Capabilities for Linked Data][1] (or how *not* to do it)
+- [Authorization Capabilities for Linked Data][1]
 
 ## Meetings
 - Implementor updates are presented at the regular Applied Crypto WG meetings.
