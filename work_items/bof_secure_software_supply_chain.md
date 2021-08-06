@@ -12,6 +12,7 @@ end-to-end integrity, reproducibility, and verifiability.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
+- Orie Steele (@OR13)
 - You!
 
 ## Outcome
