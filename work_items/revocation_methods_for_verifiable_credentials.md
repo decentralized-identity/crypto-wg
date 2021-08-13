@@ -3,7 +3,7 @@
 The goal is to identify and define revocation methods for verifiable credentials and create the protocol to ensure interoperability.
 In this work item, possible revocation methods should be collected and assessed. Suitable revocation methods should be defined in a revocation protocol. 
 
-Tasks
+Tasks:
 - Collect possible revocation methods
   - Cryptographic accumulator suggestion by Mike (https://hackmd.io/O4c3wiLZQLeXuXirm7dl9A#Math-explaination)
   - tbd
