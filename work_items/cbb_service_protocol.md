@@ -47,5 +47,5 @@ systems that have algorithm agility and are agnostic to the cryptography used.
 [1]: https://datatracker.ietf.org/doc/html/draft-ietf-teep-protocol-06
 [2]: https://gitweb.torproject.org/torspec.git/tree/control-spec.txt
 [3]: https://datatracker.ietf.org/doc/html/rfc5321
-[4]: https://github.com/TrustFrame/git-cryptography-protocol/blob/main/Git%20Cryptography%20Protocol.md
+[4]: https://github.com/cryptidtech/git-cryptography-protocol/blob/main/Git%20Cryptography%20Protocol.md
 [5]: https://datatracker.ietf.org/doc/html/draft-miller-ssh-agent-04
