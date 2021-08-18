@@ -22,11 +22,11 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 ## Meeting - Thursday 19th August 2021 - (3pm ET)
 
 ### Chair
-Tobias Looker
+Srinath Setty
 
 ### Agenda
-- Introductions and Greetings
-- Proposal Review
+- Agenda Review, Introductions, and IPR reminder
+- [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
 
 ### Attendees
 
