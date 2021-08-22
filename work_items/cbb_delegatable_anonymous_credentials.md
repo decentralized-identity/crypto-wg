@@ -19,6 +19,7 @@ and CBOR encoded data objects respectively.
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
 - Orie Steele (@OR13)
 - Orie Steele (@OR13)
+- Orie Steele (@OR13)
 - Hopefully somebody else :)
 
 ## External Partners
