@@ -31,6 +31,25 @@ also retreives the anchoring "receipt" in the form of a cryptographic proof
 identifying the location the anchoring data resides and the data necessary to
 prove that the provenance log is included.
 
+Provenance logs are intended to be a generalized form of a linked list data
+structure that uses cryptographic primitives to ensure integrity with a strong
+cryptographic link to a crontroller of the log. There are many examples of
+systems that use similar concepts: blockchains (e.g. Bitcoin), messaging
+platforms (e.g. Secure Scuttlebutt), and revision control systems (e.g. Git).
+Having an abstract data model for a general and extensible provenance log is
+a big step towards interoperability across crypto-systems that use them.
+
+This is similar to the standard for email messages. There is an abstract model
+for email that includes headers, body, and also multi-part messages and
+attachments. There are IETF standards that define the encoding of those
+messages and the protocols for transmitting them. This work item seeks to
+establish similar standards for provenance logs so that we normalize on what
+a secure record of history looks like. Because it is impossible to enumerate
+all possible use cases, the data model for provenance logs is extensible with
+the standard only covering core concepts (e.g. hash linking, policy-as-code,
+associated data tracking, key rotations, and anchoring for trust across
+trust domains).
+
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
 - Hopefully somebody else :)
