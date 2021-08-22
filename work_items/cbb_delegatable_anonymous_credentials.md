@@ -18,9 +18,6 @@ and CBOR encoded data objects respectively.
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
 - Orie Steele (@OR13)
-- Orie Steele (@OR13)
-- Orie Steele (@OR13)
-- Hopefully somebody else :)
 
 ## External Partners
 - IETF, new WG for crypto-systems building blocks?
