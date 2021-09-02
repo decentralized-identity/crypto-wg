@@ -1,6 +1,6 @@
 # Revocation Methods for Verifiable Credentials
 
-The goal is to identify and define revocation methods for verifiable credentials and create the protocol to ensure interoperability.
+The goal is to identify and define revocation methods for authentic data and create the protocol to ensure interoperability.
 In this work item, possible revocation methods should be collected and assessed. Suitable revocation methods should be defined in a revocation protocol. 
 
 Tasks:
