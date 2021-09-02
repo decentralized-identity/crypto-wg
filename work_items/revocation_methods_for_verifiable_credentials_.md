@@ -17,6 +17,7 @@ Tasks:
 ## Work Item Owners
 - Andreas Freitag (andreas.freitag.77@gmail.com)
 - Mike Lodder (redmike7@gmail.com)
+- Dave Huseby (dave@cryptid.tech)
 
 ## External Partners (OPTIONAL)
 **This is only for work items intended for transition to an external standards
