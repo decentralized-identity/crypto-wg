@@ -45,10 +45,4 @@ All implementers of SSI solutions
 - **What are related resources or standards from DIF or adjacent organizations?**
 
 ## Meetings
-- tbd with the working members 
-- **Are there regular meetings? If so, when?**
-- **What are the goals of the meeting?**
-- **Do you have specific discussion topics in mind, or is it meant to move a
-  deliverable forward?**
-- **Where are the notes and recordings published, if any?**
-- **Who might be interested in attending?**
+- bi-weekly status calls
