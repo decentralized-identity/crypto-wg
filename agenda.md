@@ -19,59 +19,30 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 2 September 2021 - (3pm ET)
+## Meeting - Thursday 16th September 2021 - (3pm ET)
 
 ### Chair
-Brent Zundel
 
 ### Agenda
 - IPR reminder, Agenda Review, and Introductions 
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
-- [Compact Cryptographic Data Encoding - Problem statement](https://docs.google.com/document/d/10aHfefNVBrzFOiQ3--Ri7lMzwNqVOYsQqJal17uodvA/edit?usp=sharing) review
-- Work item status update
 
 ### Attendees
-- Brent Zundel
-- Orie Steele
-- Dave Huseby
-- Mike Jones
-- Steve Todd
-- Jeremie Miller
-- Tobias Looker
-- Tomislav Markovski
-- Andreas Freitag
-- Andrew Whitehead
-- Srinath Setty
 
 ### Notes
 
 #### Introductions
-- Tomislav from Trinsic
-- Mike Jones from Microsoft
-- Christian Paquin formally apart of the Uprove effort
-- Seth Back
 
 #### Issue Review
-- [BBS Work item missing expected completion time](https://github.com/decentralized-identity/crypto-wg/issues/24)
-    - Tobias will add esitmated completion time
 
 #### PR Review
-- [Adding provenance log proposal](https://github.com/decentralized-identity/crypto-wg/pull/8)
-    - Need work item owner
-- [Adding distributed zkp authentication proposal](https://github.com/decentralized-identity/crypto-wg/pull/15)
-    - Need work item owner
-- [Scalable Revocation Method(s) for Verifiable Credentials](https://github.com/decentralized-identity/crypto-wg/pull/20)
-    - accepted as work item by the group
 
 #### Work Item status
-brief update on each work item
-- most have github repos
-- some are working on finding good meeting times
-- some will be introducing initial drafts soon.
 
 ## Previous Meetings
 
+- [Thursday 2nd September 2021](./meetings/02-09-2021/agenda.md)
 - [Thursday 19th August 2021](./meetings/19-08-2021/agenda.md)
 - [Thursday 5th August 2021](./meetings/05-08-2021/agenda.md)
 - [Thursday 24th June 2021](./meetings/24-06-2021/agenda.md)
