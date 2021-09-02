@@ -8,7 +8,7 @@ Tasks:
   - Cryptographic accumulator suggestion by Mike (https://hackmd.io/O4c3wiLZQLeXuXirm7dl9A#Math-explaination)
   - tbd
 
-- Define an assessment setup (#of credentials, #of revocations per epoch,...)for performance testing
+- Define an assessment setup (#of entries, #of revocations per epoch,...)for performance testing
 - Define requirements for privacy (correlation (linked, linkable), traceability, leaking of usage data,..)
 - Define performance requirements (computational effort, storage, data transmission, sizes,...)
 - Assess the revocation methods and define one or more revocation methods that fits the purpose
