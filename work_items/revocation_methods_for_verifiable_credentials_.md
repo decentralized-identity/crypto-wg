@@ -19,7 +19,7 @@ Tasks:
 - Mike Lodder (redmike7@gmail.com)
 - Dave Huseby (dave@cryptid.tech)
 
-## External Partners (OPTIONAL)
+## External Partners
 **This is only for work items intended for transition to an external standards
 body after incubation here. This may be filled in later and is not required for
 initial approval of the work item.**:
