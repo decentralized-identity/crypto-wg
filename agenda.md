@@ -22,11 +22,13 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 ## Meeting - Thursday 16th September 2021 - (3pm ET)
 
 ### Chair
+Tobias
 
 ### Agenda
 - IPR reminder, Agenda Review, and Introductions 
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
+- [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
 
