@@ -52,7 +52,8 @@ trust domains).
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
-- Hopefully somebody else :)
+- Steve Todd (@stevetodd, Individual Contributor)
+- Seth Back (@Seth Back, sethjback@gmail.com, Individual Contributor)
 
 ## External Partners
 - IETF, new WG for crypto-systems building blocks?
