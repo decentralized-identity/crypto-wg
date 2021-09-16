@@ -1,18 +1,19 @@
 # Crypto-systems Building Blocks: Policy-as-Code Language
 
-This is the eigth proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+This is part of a series of work items under the category of "crypto-systems
+building blocks".
 
-This work item is to propose an IETF standard for an application independent,
-non-Turing-complete language and virtual machine definition for encoding and
-executing cryptographic policies as code (i.e. smart contracts). Fully
-decentralized crypto-systems require a method for defining policies that allow
-for decentralized and independent verification and enforcement. This is similar
-to the way Bitcoin users define the policy for validating Bitcoin transactions
-such that Bitcoin miners can do the validation independently and without any
-coordination with other miners. This is a generalization of that concept to
-application neutral, authentic data applications that require maximum
-decentralization and scalability.
+This work item is to propose an IETF standard for a domain specific language
+focused on capturing policies as code that is translated into R1CS gadgets
+which are in turn compiled to verifiable computation such as a zkSNARK or
+Bulletproof. There only exists two known examples (that I could find) of a
+high level language designed for this purpose: Snarky and a C compiler that was
+published along with the Pinocchio protocol work.
+
+Snarky is limited to targeting zkSNARKs and thus rely on a trusted setup. This
+new high level policy-as-code language is targeted at defining R1CS gadgets
+that serve as inputs to zkSNARKS and Bulletproof encoders for both trusted
+and untrusted verifiable computations.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
@@ -22,28 +23,28 @@ decentralization and scalability.
 - IETF, new WG for crypto-systems building blocks?
 
 ## Outcome
-- Establish a standard language definition for a non-Turing-complete
-  programming language designed for defining policy-as-code.
-- Establish a standard virtual machine definition that formalizes external
-  data sources that may be referenced by the language at run-time.
+- Establish a standard language definition for a higher level language that
+  enforces the limitations required for converstion to R1CS gadgets.
 
 ## Deliverables
 - An IETF formatted draft standard, ready for proposal.
-- A white paper describing the design decisions (e.g. non-Turing-complete) as
-  well as the applications of the language in provenance logs and other crypto-
-  systems (e.g. emailed Git patches).
+- A white paper describing the design decisions as well as the applications of
+  the language in provenance logs and other crypto-systems (e.g. emailed Git
+  patches).
 - One or more reference implementations.
 - The expected timeline is 1-3 months to completion.
 - The audience is any developer that works with crypto-systems and requires a
-  method for defining late-binding policies as code for decentralized and
-  independent verification of cryptographically secure data.
+  method for defining verifiable computations for both trusted and untrusted
+  setups.
 
-### Relevant Related Standards
+### Relevant Related Work
 - [Crypto Construct Language][0]
-- [Bitcoin Script][1]
+- [Snarky Language][1]
+- [Pinocchio Protocol Paper/Compiler][2]
 
 ## Meetings
 - Implementor updates are presented at the regular Applied Crypto WG meetings.
 
 [0]: https://github.com/dhuseby/cclang
-[1]: https://en.bitcoin.it/wiki/Script
+[1]: https://github.com/o1-labs/snarky
+[2]: https://eprint.iacr.org/2013/279.pdf
