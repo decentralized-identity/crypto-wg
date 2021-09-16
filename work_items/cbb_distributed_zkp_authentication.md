@@ -17,7 +17,7 @@ the decentralized authorization delegation system.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
-- Hopefully somebody else :)
+- Steve Todd (@stevetodd, Individual Contributor)
 
 ## External Partners
 - IETF, new WG for crypto-systems building blocks?
