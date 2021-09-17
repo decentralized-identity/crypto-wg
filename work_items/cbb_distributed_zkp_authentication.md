@@ -17,6 +17,7 @@ the decentralized authorization delegation system.
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
+- Tomislav Markovski (@Tomislav, Trinsic, Inc)
 - Steve Todd (@stevetodd, Individual Contributor)
 
 ## External Partners
