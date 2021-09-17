@@ -43,8 +43,12 @@ and untrusted verifiable computations.
 - [Pinocchio Protocol Paper/Compiler][2]
 
 ## Meetings
+- [Work item repo][3]
+- Current agenda and work conversation happening in the Discussions in the
+  Github repo.
 - Implementor updates are presented at the regular Applied Crypto WG meetings.
 
 [0]: https://github.com/dhuseby/cclang
 [1]: https://github.com/o1-labs/snarky
 [2]: https://eprint.iacr.org/2013/279.pdf
+[3]: https://github.com/decentralized-identity/policy-as-code
