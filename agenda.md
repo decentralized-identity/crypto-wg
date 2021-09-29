@@ -42,7 +42,7 @@ Brent
 
 ## Previous Meetings
 
-- [Thursday 16th September 2021](.meetings/2021-09-16/agenda.md)
+- [Thursday 16th September 2021](meetings/2021-09-16/agenda.md)
 - [Thursday 2nd September 2021](meetings/2021-09-02/agenda.md)
 - [Thursday 19th August 2021](meetings/2021-08-19/agenda.md)
 - [Thursday 5th August 2021](meetings/2021-08-05/agenda.md)
