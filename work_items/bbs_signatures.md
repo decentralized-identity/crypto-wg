@@ -18,6 +18,7 @@ The overall intent from this work item is to produce a document that can be prop
 ## Deliverables
 - A document that formally defines the cryptographic representation of and process of producing a BBS signature along side associated structures such as derived proofs of knowledge of a BBS signature.
 - A set of test fixtures to support the development of interoperable implementations.
+- Estimated six month timeline
 
 ## Meetings
 - A weekly work item call with a primary focus on issue review and general evolution of the BBS signature document.
