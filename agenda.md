@@ -22,21 +22,39 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 ## Meeting - Thursday 9th December 2021 - (3pm ET)
 
 ### Chair
-
+Brent Zundel
 
 ### Agenda
+- Agenda Review, and Introductions 
+- No Meetings until 2022-01-19
+- [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
+- [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
+- [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
-
 
 ### Notes
 #### Issue Review
 
-
 #### PR Review
 
-
 #### Work Item status
+- [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
+
+- [bof secure software supply chain](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bof_secure_software_supply_chain.md)
+    
+- [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md) & [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
+    
+- [cbb_delegatable_anonymous_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_delegatable_anonymous_credentials.md)
+
+- [cbb_policy_as_code](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_policy_as_code.md)
+
+- [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
+
+- [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
+    
+- [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
+    
 
     
 ## Previous Meetings
