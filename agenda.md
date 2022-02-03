@@ -19,10 +19,10 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 3rd February 2022 - (3pm ET)
+## Meeting - Thursday 17th February 2022 - (3pm ET)
 
 ### Chair
-Tobias Looker
+Brent Zundel
 
 
 ### Agenda
@@ -63,6 +63,7 @@ no open issues
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
    
 ## Previous Meetings
+- [Thursday 3rd February 2022](meetings/2022-02-03/agenda.md)
 - [Thursday 20th January 2022](meetings/2022-01-20/agenda.md)
 - [Thursday 9th December 2021](./meetings/2021-12-09/agenda.md)
 - [Thursday 11th November 2021](meetings/2021-11-11/agenda.md)
