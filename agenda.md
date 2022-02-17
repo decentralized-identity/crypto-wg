@@ -22,8 +22,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 ## Meeting - Thursday 17th February 2022 - (3pm ET)
 
 ### Chair
-Brent Zundel
-
+Tobias Looker
 
 ### Agenda
 - Agenda Review, and Introductions 
