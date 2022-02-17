@@ -38,10 +38,13 @@ no open issues
 
 #### PR Review
 - [#27 - Policy as Code updates](https://github.com/decentralized-identity/crypto-wg/pull/27)
+    - No updates
 - [#8 Provenance logs work item](https://github.com/decentralized-identity/crypto-wg/pull/8)
+    - No updates
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
+    - Lots of progress
 
 - [bof secure software supply chain](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bof_secure_software_supply_chain.md) 
     
@@ -56,10 +59,16 @@ no open issues
 - [cbb-service_protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md) 
 
 - [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
+    - Working through updating the language, possibly getting it to an I-D for the up and coming Vienna meeting
+    - Interesting discussion on presentation header helps schemes like BBS, PR in-bound from Jeremie
 
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
     
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
+    - Kick off call last week
+    - Requesting a repository in the next fortnight
+    - Expect progress before next call
+    - Focus on reviewing a broad set of ZKP based schemes
    
 ## Previous Meetings
 - [Thursday 3rd February 2022](meetings/2022-02-03/agenda.md)
