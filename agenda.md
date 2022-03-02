@@ -19,13 +19,15 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 17th February 2022 - (3pm ET)
+## Meeting - Thursday 2nd March 2022 - (3pm ET)
 
 ### Chair
-Tobias Looker
+Brent Zundel
 
 ### Agenda
 - Agenda Review, and Introductions 
+- BLS12-381 Announcement
+- IETF Tooling shout out
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
@@ -34,21 +36,19 @@ Tobias Looker
 
 ### Notes
 #### Issue Review
-no open issues
 
 #### PR Review
 - [#27 - Policy as Code updates](https://github.com/decentralized-identity/crypto-wg/pull/27)
-    - No updates
 - [#8 Provenance logs work item](https://github.com/decentralized-identity/crypto-wg/pull/8)
-    - No updates
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
-    - Lots of progress
-
+  
 - [bof secure software supply chain](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bof_secure_software_supply_chain.md) 
     
-- [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md) & [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
+- [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md)
+
+- [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
     
 - [cbb_delegatable_anonymous_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_delegatable_anonymous_credentials.md) 
 
@@ -59,18 +59,14 @@ no open issues
 - [cbb-service_protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md) 
 
 - [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
-    - Working through updating the language, possibly getting it to an I-D for the up and coming Vienna meeting
-    - Interesting discussion on presentation header helps schemes like BBS, PR in-bound from Jeremie
 
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
     
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
-    - Kick off call last week
-    - Requesting a repository in the next fortnight
-    - Expect progress before next call
-    - Focus on reviewing a broad set of ZKP based schemes
+
    
 ## Previous Meetings
+- [Thursday 17th February 2022](meetings/2022-02-17/agenda.md)
 - [Thursday 3rd February 2022](meetings/2022-02-03/agenda.md)
 - [Thursday 20th January 2022](meetings/2022-01-20/agenda.md)
 - [Thursday 9th December 2021](./meetings/2021-12-09/agenda.md)
