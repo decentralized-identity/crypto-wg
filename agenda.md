@@ -26,6 +26,7 @@ Brent Zundel
 
 ### Agenda
 - Agenda Review, and Introductions 
+- BLS12-381 Announcement
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
