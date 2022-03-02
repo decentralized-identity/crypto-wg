@@ -27,6 +27,7 @@ Brent Zundel
 ### Agenda
 - Agenda Review, and Introductions 
 - BLS12-381 Announcement
+- IETF Tooling shout out
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
@@ -42,10 +43,12 @@ Brent Zundel
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
-
+  
 - [bof secure software supply chain](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bof_secure_software_supply_chain.md) 
     
-- [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md) & [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
+- [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md)
+
+- [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
     
 - [cbb_delegatable_anonymous_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_delegatable_anonymous_credentials.md) 
 
