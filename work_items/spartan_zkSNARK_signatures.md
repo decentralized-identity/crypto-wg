@@ -42,3 +42,8 @@ unlinkability to standard signature schemes.
 
 ## Meetings
 - A bi-weekly work item call to make progress on the above deliverables.
+
+## Resources
+- Reference Implementation by Microsoft: https://github.com/microsoft/Spartan
+- Specification Workspace Repo: https://github.com/decentralized-identity/spartan_zkSNARK_signatures
+- #crypto-spartan channel on the DIF Slack
