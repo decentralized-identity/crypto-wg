@@ -19,7 +19,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 17th March 2022 - (3pm ET)
+## Meeting - Thursday 31st March 2022 - (3pm ET)
 
 ### Chair
 Brent Zundel
@@ -31,14 +31,8 @@ Brent Zundel
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
-- Brent Zundel
-- Orie Steele
-- Jeremie Miller
-- Jo Vercammen
 
 ### Notes
-Brent will contact Dave and Mike
-Reports on JWP, BBS, and Spartan
 
 #### Issue Review
 no open issues
@@ -51,31 +45,19 @@ no open issues
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
-    - good progress, starting to automate test vectors, massive amounts of PRs moving forward, lots of progress.
 - [bof secure software supply chain](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bof_secure_software_supply_chain.md)
-    - no report
 - [CBB Data Encoding](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_data_encoding.md)
-    - no report
 - [CBB Crypto Service Protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
-    - no report
 - [cbb_delegatable_anonymous_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_delegatable_anonymous_credentials.md)
-    - no report
 - [cbb-distributed_zkp_authentication](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_distributed_zkp_authentication.md)
-    - no report
 - [cbb_policy_as_code](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_policy_as_code.md)
-    - no report
 - [cbb-service_protocol](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/cbb_service_protocol.md)
-    - no report
 - [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
-    - progressing. currently updating tooling so examples are imported from fixtures (mimicking BBS+)
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
-    - no report
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
-  - [Repository](https://github.com/decentralized-identity/spartan_zkSNARK_signatures)
-  - kickoff call next Thursday (same timeslot as regular crypto call, offset by a week)
-  - anticipate multiple work items coming out of this.
    
 ## Previous Meetings
+- [Thursday 17th March 2022](meetings/2022-03-17/agenda.md)
 - [Thursday 2nd March 2022](meetings/2022-03-02/agenda.md)
 - [Thursday 17th February 2022](meetings/2022-02-17/agenda.md)
 - [Thursday 3rd February 2022](meetings/2022-02-03/agenda.md)
