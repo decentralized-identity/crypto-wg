@@ -22,7 +22,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 ## Meeting - Thursday 14th April 2022 - (3pm ET)
 
 ### Chair
-Brent Zundel
+Vasileios Kalos (for Tobias Looker)
 
 ### Agenda
 - Agenda Review, and Introductions 
