@@ -1,6 +1,5 @@
 
 ## Meeting - Thursday 14th April 2022 - (3pm ET)
-## Meeting - Thursday 14th April 2022 - (3pm ET)
 
 ### Chair
 Vasileios Kalos (for Tobias Looker)
