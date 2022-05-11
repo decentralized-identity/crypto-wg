@@ -19,15 +19,16 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 14th April 2022 - (3pm ET)
+## Meeting - Thursday 12 May 2022 - (3pm ET)
 
 ### Chair
-Vasileios Kalos (for Tobias Looker)
+Brent Zundel
 
 ### Agenda
 - Agenda Review, and Introductions 
 - [Issue Review](https://github.com/decentralized-identity/crypto-wg/issues)
 - [Proposal Review](https://github.com/decentralized-identity/crypto-wg/pulls)
+- Work Item Clean up: what should we do with stale work items?
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
@@ -55,6 +56,7 @@ no open issues
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
    
 ## Previous Meetings
+- [Thursday 14th April 2022](meetings/2022-04-14/agenda.md)
 - [Thursday 31st March 2022](meetings/2022-03-31/agenda.md)
 - [Thursday 17th March 2022](meetings/2022-03-17/agenda.md)
 - [Thursday 2nd March 2022](meetings/2022-03-02/agenda.md)
