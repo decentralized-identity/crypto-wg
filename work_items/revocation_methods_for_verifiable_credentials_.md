@@ -15,7 +15,8 @@ Tasks:
 - Create the protocol 
 
 ## Work Item Owners
-- Andreas Freitag (andreas.freitag.77@gmail.com)
+- Andrew Whitehead (andrew.whitehead@portagecybertech.com)
+- Brian Richter (brian@aviary.tech)
 - Mike Lodder (redmike7@gmail.com)
 - Dave Huseby (dave@cryptid.tech)
 
@@ -38,7 +39,7 @@ The revocation method can be implemented and is interoperable if you follow the 
 - Protocol as a base for implementation
 
 - **What's the expected timeline?**
-Feb.2022
+Nov.2022
 - **Who's the audience of your deliverables?**
 All implementers of SSI solutions
 
