@@ -32,10 +32,10 @@ Brent Zundel
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
-Brent Zundel
-Jeremie Miller
-Andrew Whitehead
-Brian Richter
+- Brent Zundel
+- Jeremie Miller
+- Andrew Whitehead
+- Brian Richter
 
 ### Notes
 
