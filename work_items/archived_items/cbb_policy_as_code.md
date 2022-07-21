@@ -1,9 +1,11 @@
-# Crypto-systems Building Blocks: Policy-as-Code Language
+# ~~Crypto-systems Building Blocks: Policy-as-Code Language~~ [ARCHIVED]
 
-This is the eigth proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+**This work item has been archived. If you are interested in reviving it, please contact the Crypto WG chairs.**
 
-This work item is to propose an IETF standard for an application independent,
+~~This is the eigth proposed work item in a series of work items under the
+category of "crypto-systems building blocks".~~
+
+~~This work item is to propose an IETF standard for an application independent,
 non-Turing-complete language and virtual machine definition for encoding and
 executing cryptographic policies as code (i.e. smart contracts). Fully
 decentralized crypto-systems require a method for defining policies that allow
@@ -12,7 +14,7 @@ to the way Bitcoin users define the policy for validating Bitcoin transactions
 such that Bitcoin miners can do the validation independently and without any
 coordination with other miners. This is a generalization of that concept to
 application neutral, authentic data applications that require maximum
-decentralization and scalability.
+decentralization and scalability.~~
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)

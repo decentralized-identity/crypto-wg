@@ -1,19 +1,21 @@
-# Crypto-systems Building Blocks: Delegatable Anonymous Credentials
+# ~~Crypto-systems Building Blocks: Delegatable Anonymous Credentials~~ [ARCHIVED]
 
-This is the ninth proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+**This work item has been archived. If you are interested in reviving it, please contact the Crypto WG chairs.**
 
-This work item is to propose an IETF standard to formalize the method and
+~~This is the ninth proposed work item in a series of work items under the
+category of "crypto-systems building blocks".~~
+
+~~This work item is to propose an IETF standard to formalize the method and
 application of delegatable anonymous credentials for use in decentralized
 crypto-systems. It also establishes an abstract data model that explicitly
 avoids negative privacy implications of using stable identifiers for inter-
 object and intra-object references. This is critical for building fully
 decentralized crypto-systems that maximize privacy and have authorization
-functions that rely on credential delegation and revocation.
+functions that rely on credential delegation and revocation.~~
 
-This is similar in nature to the IETF JOSE and COSE standards work that
+~~This is similar in nature to the IETF JOSE and COSE standards work that
 formalized the data model and method for encoding cryptographically signed JSON
-and CBOR encoded data objects respectively.
+and CBOR encoded data objects respectively.~~
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)

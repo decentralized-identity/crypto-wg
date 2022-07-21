@@ -1,13 +1,15 @@
-# Crypto-systems Building Blocks: Service Protocol
+# ~~Crypto-systems Building Blocks: Service Protocol~~ [ARCHIVED]
 
-This is the second proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+**This work item has been archived. If you are interested in reviving it, please contact the Crypto WG chairs.**
 
-This work item is to propose an IETF standard for a protocol that cryptographic
+~~This is the second proposed work item in a series of work items under the
+category of "crypto-systems building blocks".~~
+
+~~This work item is to propose an IETF standard for a protocol that cryptographic
 service consumers utilize to interact with cryptographic service providers.
 This protocol is needed to enable the separation of concerns between
 cryptographic service providers and consumers and is key to building crypto-
-systems that have algorithm agility and are agnostic to the cryptography used.
+systems that have algorithm agility and are agnostic to the cryptography used.~~
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)

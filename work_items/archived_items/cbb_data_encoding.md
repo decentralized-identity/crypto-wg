@@ -1,15 +1,17 @@
-# Crypto-systems Building Blocks: Data Encoding
+# ~~Crypto-systems Building Blocks: Data Encoding~~ [ARCHIVED]
 
-This is the first proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+**This work item has been archived. If you are interested in reviving it, please contact the Crypto WG chairs.**
 
-This work item is to propose an IETF standard for encoding cryptographic data
+~~This is the first proposed work item in a series of work items under the
+category of "crypto-systems building blocks".~~
+
+~~This work item is to propose an IETF standard for encoding cryptographic data
 in a universal and self-describing way. This goes beyond the existing JWK/JWT
 standards and includes all classes of cryptographic data: keys, nonce, digital
 signatures, encrypted data, AEAD constructs, PRNG state, policy-as-code (smart
 contracts), HMAC, and digests. The self-describing aspect is key in enabling
 the separation of concerns into cryptographic service providers (e.g. signing
-and encrypting tools) and cryptographic service consumers (e.g. email, Git).
+and encrypting tools) and cryptographic service consumers (e.g. email, Git).~~
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)

@@ -1,9 +1,11 @@
-# Crypto-systems Building Blocks: Distributed ZKP Authentication
+# ~~Crypto-systems Building Blocks: Distributed ZKP Authentication~~ [ARCHIVED]
 
-This is the tenth proposed work item in a series of work items under the
-category of "crypto-systems building blocks".
+**This work item has been archived. If you are interested in reviving it, please contact the Crypto WG chairs.**
 
-This work item is to propose an IETF standard method and protocol for a novel
+~~This is the tenth proposed work item in a series of work items under the
+category of "crypto-systems building blocks".~~
+
+~~This work item is to propose an IETF standard method and protocol for a novel
 MFA ZKP authentication system based on curve and bilinear maps. The approach
 produces a capability token that is just 48 bytes and produces proofs that are
 just 96 bytes. The authentication method does not require disclosure of the
@@ -13,7 +15,7 @@ a critical part of building decentralized crypt-systems because the capability
 token is a form of anonymous delegated credential granting access service
 endpoints. The generation of tokens can also be done using one-pass distributed
 key generation and threshold signing to eliminate a single point of attack in
-the decentralized authorization delegation system.
+the decentralized authorization delegation system.~~
 
 ## Work Item Owners
 - Dave Huseby (@dhuseby, dave@cryptid.tech, CryptID Technologies, Inc)
