@@ -19,7 +19,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 1 September 2022 - (3pm ET)
+## Meeting - Thursday 5 October 2022 - (3pm ET)
 
 ### Chair
 Brent Zundel
@@ -31,9 +31,6 @@ Brent Zundel
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
-Andreas Freitag
-Jeremie Miller
-Brian Richter
 
 ### Notes
 
@@ -43,22 +40,13 @@ Brian Richter
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
-  - was submitted CFRG, should be deciding soon whether to adopted.
-    
 - [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
-  - Got approval to do a virtual BOF before next IETF. No rush, get those with
-  objections to participate on mailing list to address concerns before BOF. 
-  Hopefully mid-october
-
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
-  - Bit of progress, putting Andrew's contribution into a DIF spec. 
-  - Moving the meeting to Tuesdays at 8am PT.
-
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
-  - On brief hiatus until Spartan library supports ZK-POK of ED25519 signature, 
-  expected soon, but reliant on MSFT research.
+
 
 ## Previous Meetings
+- [Thursday 1st September 2022](meetings/2022-09-01/agenda.md)
 - [Thursday 21 July 2022](meetings/2022-07-21/agenda.md)
 - [Thursday 26th May 2022](meetings/2022-05-26/agenda.md)
 - [Thursday 14th April 2022](meetings/2022-04-14/agenda.md)
