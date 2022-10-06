@@ -40,7 +40,7 @@ Brent Zundel
 
 #### Work Item status
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
-- [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md)
+- [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md): activity is paused at DIF while we work within IETF on establishing a working group. The next step for that is an [interim birds-of-feather meeting](https://datatracker.ietf.org/wg/jwp/meetings/) scheduled for Wednesday, October 12th.
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
 
