@@ -19,7 +19,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/87960900967?pwd=Ti9KWXpyR0dkKzhEQ0lTTVkxOE1WQT09), Meeting ID: 879 6090 0967 , Password: 045023
 </details>
 
-## Meeting - Thursday 5 October 2022 - (3pm ET)
+## Meeting - Thursday 6 October 2022 - (3pm ET)
 
 ### Chair
 Brent Zundel
@@ -31,6 +31,7 @@ Brent Zundel
 - [Work Item Reports](https://github.com/decentralized-identity/crypto-wg/tree/main/work_items)
 
 ### Attendees
+- Brian Richter
 
 ### Notes
 
@@ -42,6 +43,9 @@ Brent Zundel
 - [bbs signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/bbs_signatures.md)
 - [JSON Web Proof](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/json_web_proof.md): activity is paused at DIF while we work within IETF on establishing a working group. The next step for that is an [interim birds-of-feather meeting](https://datatracker.ietf.org/wg/jwp/meetings/) scheduled for Wednesday, October 12th.
 - [revocation_methods_for_verifiable_credentials](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/revocation_methods_for_verifiable_credentials_.md)
+  - we now have a strawman of Andrew's method https://identity.foundation/revocation/non-revocation-token/
+  - new meeting time 8am PST every Tuesday
+  - would like to bolster more attendance, would another meeting time change help more people attend?
 - [Spartan ZKP signatures](https://github.com/decentralized-identity/crypto-wg/blob/main/work_items/spartan_zkSNARK_signatures.md)
 
 
