@@ -7,7 +7,7 @@ The goals of the working group are to define a standard way to handle this type 
 ## Work Item Owners
 
 - **Yanis Meziane** (@Meyanis95, yanis@pse.dev)
-- **[Collaborator Name]** (@collaboratorgithub, collaboratoremail@example.com)
+- **Kim Duffy** (@kimdhamilton, kim@identity.foundation)
 
 ## External Partners (OPTIONAL)
 
@@ -45,6 +45,6 @@ The goals of this work item include:
 
 ## Meetings
 
-- **Schedule**: TBD
-- **Collaboration: **DIF Discord or DIF Slack (TBD)
-- **Notes and Recordings**: To be published on the DIF Applied Crypto WG GitHub repository and shared via the mailing list.
+- **Schedule**: Primarily asynchronous, to be revisited as necessary
+- **Collaboration**: DIF Discord channel
+- **Notes and Recordings**: To be published on the DIF Applied Crypto WG GitHub repository and shared via the usual DIF channels
