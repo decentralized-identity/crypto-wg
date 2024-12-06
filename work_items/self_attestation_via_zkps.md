@@ -46,5 +46,5 @@ The goals of this work item include:
 ## Meetings
 
 - **Schedule**: Primarily asynchronous, to be revisited as necessary
-- **Collaboration**: DIF Discord channel
+- **Collaboration**: [DIF Discord](https://discord.gg/3qm3xQvv), zk-self-attestations channel
 - **Notes and Recordings**: To be published on the DIF Applied Crypto WG GitHub repository and shared via the usual DIF channels
